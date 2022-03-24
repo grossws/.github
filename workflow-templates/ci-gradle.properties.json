@@ -1,0 +1,12 @@
+{
+  "name": "Gradle CI & release workflow",
+  "description": "Simple Gradle CI with gradle wrapper validation, default build, release to private Nexus and Slack notification. Uses `nebula.release` for release version management.",
+  "iconName": "gradle",
+  "categories": [
+    "Java",
+    "Kotlin"
+  ],
+  "filePatterns": [
+    "^settings.gradle.kts$"
+  ]
+}
